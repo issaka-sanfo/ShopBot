@@ -1,0 +1,4 @@
+pandas
+selenium
+dash
+dash_bootstrap_components
